@@ -1,5 +1,3 @@
-## Halo 👋
-
 # 💫 About Me:
 Saya Muh. Ashari Rasyid biasa di panggil "Ashari".<br><br>🛠️ Saat ini saya sedang mengerjakan: Bot Telegram untuk konversi dan kompresi file.<br>👥 Saya ingin berkolaborasi dalam: Proyek open-source terkait otomatisasi.<br>🤝 Saya membutuhkan bantuan dalam: Meningkatkan performa dan efisiensi server.<br>🌱 Saat ini saya sedang belajar: Pemrograman Python tingkat lanjut dan komputasi awan.<br>💬 Tanya saya tentang: Konversi file, otomatisasi, dan pengembangan bot.<br>⚡ Fakta menarik: Saya suka mengoptimalkan alur kerja untuk menghemat waktu dan sumber daya!
 
